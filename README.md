@@ -6,5 +6,6 @@ This program scrapes data from Google Maps like addresses, ratings, descriptions
 ## Requirements 
 * Install Selenium - Open the command prompt and run the following command to install Selenium:\
   `pip install selenium`
+* Download ChromeDriver - Visit the [ChromeDriver page](https://developer.chrome.com/docs/chromedriver/downloads) and download the version that matches your installed version of Chrome.
   
 
