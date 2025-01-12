@@ -9,7 +9,7 @@ This program scrapes data from Google Maps like addresses, ratings, descriptions
 * Download ChromeDriver - Visit the [ChromeDriver page](https://developer.chrome.com/docs/chromedriver/downloads) and download the version that matches your installed version of Chrome and extract the downloaded file and copy the path to the chromedriver.exe executable. For example, C:/chromedriver_win64/chromedriver.exe.
 
 ## Testing
-Open the command prompt or your preferred Python environment and run the program by typing:
+Open the command prompt or your preferred Python environment and run the program by typing:\
 `python google_maps_scraper.py`
 
 
